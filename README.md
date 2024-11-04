@@ -26,7 +26,8 @@
 
 # Where am I deployed?
 
-deploy-this-repo-pachmi-5ian.vercel.app
+http:://deploy-this-repo-pachmi-5ian-git-main-pachmis-projects.vercel.app
+
 
 
 
