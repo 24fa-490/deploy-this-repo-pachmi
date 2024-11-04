@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<enter https://deploy-this-repo-pachmi-5ian-7da3h3h6e-pachmis-projects.vercel.app/ >
+https://deploy-this-repo-pachmi-5ian-7da3h3h6e-pachmis-projects.vercel.app/
 
 
