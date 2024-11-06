@@ -26,6 +26,8 @@
 
 # Where am I deployed?
 
-<enter your URL here>
+
+https://deploy-this-repo-pachmi-5ian-git-main-pachmis-projects.vercel.app/
+
 
 
